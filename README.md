@@ -10,13 +10,13 @@ O projeto foi desenvolvido como prova de conceito para o Tech Challenge 3 da FIA
 - sinais de alerta para câncer;
 - identificação de possíveis situações de violência doméstica.
 
-O fluxo principal do repositório está no notebook [local_llama_unsloth_colab_v5.ipynb](local_llama_unsloth_colab_v5.ipynb), pensado para execução no Google Colab com GPU.
+O fluxo principal do repositório está no notebook [local_llama_unsloth_colab_v7.ipynb](local_llama_unsloth_colab_v7.ipynb), pensado para execução no Google Colab com GPU.
 
 ## Informações importantes
 
 O vídeo de apresentação encontra armazenado no site YouTube, de forma restrita a quem possuir o link a seguir:
 
-- https://youtu.be/j6_ITervBmw
+- https://youtu.be/Fqumy9LpLNI
 
 
 ## Visão geral
@@ -35,7 +35,7 @@ O modelo base utilizado no notebook é `unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4
 .
 |-- README.md
 |-- RELATORIO_TECNICO.md
-|-- local_llama_unsloth_colab_v5.ipynb
+|-- local_llama_unsloth_colab_v7.ipynb
 `-- finetunnig/
 	|-- casos_triagem_obstetricia.jsonl
 	|-- planejamento_familiar.jsonl
@@ -60,7 +60,7 @@ Este é o fluxo mais aderente ao que já está implementado no projeto.
 
 #### Passo a passo
 
-1. Abra o notebook [local_llama_unsloth_colab_v5.ipynb](local_llama_unsloth_colab_v5.ipynb) no Google Colab.
+1. Abra o notebook [local_llama_unsloth_colab_v7.ipynb](local_llama_unsloth_colab_v7.ipynb) no Google Colab.
 2. No Colab, habilite GPU em `Runtime > Change runtime type > GPU`.
 3. Execute as células de instalação de dependências presentes no notebook:
 
