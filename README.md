@@ -12,6 +12,13 @@ O projeto foi desenvolvido como prova de conceito para o Tech Challenge 3 da FIA
 
 O fluxo principal do repositório está no notebook [local_llama_unsloth_colab_v5.ipynb](local_llama_unsloth_colab_v5.ipynb), pensado para execução no Google Colab com GPU.
 
+## Informações importantes
+
+O vídeo de apresentação encontra armazenado no site YouTube, de forma restrita a quem possuir o link a seguir:
+
+- https://youtu.be/j6_ITervBmw
+
+
 ## Visão geral
 
 O repositório reúne:
